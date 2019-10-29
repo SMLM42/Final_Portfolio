@@ -17,6 +17,8 @@
 /*
 	1. Basic
 */
+.indent {margin-left: 40px; 
+}
 
 html {
 	margin-right: 0!important;
